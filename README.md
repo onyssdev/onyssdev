@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onyss</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&color=ff7300&center=true&vCenter=true&width=600&lines=I%27m+an+angel%3BOpen+Source+Programmer" alt="Typing SVG" /></p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-24292f?style=plastic&logoSize=auto&logo=github&logoColor=white)](https://github.com/onyssdev) ![Discord](https://img.shields.io/badge/Discord-24292f?style=plastic&logoSize=auto&logo=discord&logoColor=white)
 
 ## GitHub Stats
 
